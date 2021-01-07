@@ -1,4 +1,4 @@
-# Sistemas Distribuiídos - Tarefa 1
+# Sistemas Distribuídos - Tarefa 1
 
 ## Informações Úteis
 
